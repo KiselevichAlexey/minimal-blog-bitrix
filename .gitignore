@@ -1,0 +1,10 @@
+/backup/*
+/cache/*
+/catalog_export/*
+/managed_cache/*
+/stack_cache/*
+/tmp/*
+/updates/*
+*.log
+*.DS_Store
+.idea
